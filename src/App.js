@@ -41,7 +41,7 @@ function App() {
             <li
             key={i}
               style={{ 
-                color: "green",
+                color: "gold",
              }}>
               {item}</li>
           ))}
