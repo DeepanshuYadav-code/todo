@@ -10,9 +10,7 @@ function App() {
     "item3",
     "item4",
     "item5",]);
-
-  
-
+    
   const [value, setValue] = useState("");
   function onValueChange(e){
     console.log(e.target.value);
